@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>hero3.png</file>
+    <file>KM.png</file>
+    <file>unmul.png</file>
+  </qresource>
+</RCC>
